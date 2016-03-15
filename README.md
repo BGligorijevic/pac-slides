@@ -1,1 +1,1 @@
-# pac-slides
+This presentation is used for PAC course Spring 2016.
